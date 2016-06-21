@@ -1,0 +1,15 @@
+H:\Documents\Mono_dotNET_Projects\XmlAndJsonConverter\XmlAndJsonConverter\bin\Debug\XmlAndJsonConverter.exe.config
+H:\Documents\Mono_dotNET_Projects\XmlAndJsonConverter\XmlAndJsonConverter\bin\Debug\XmlAndJsonConverter.exe
+H:\Documents\Mono_dotNET_Projects\XmlAndJsonConverter\XmlAndJsonConverter\bin\Debug\XmlAndJsonConverter.pdb
+H:\Documents\Mono_dotNET_Projects\XmlAndJsonConverter\XmlAndJsonConverter\bin\Debug\Newtonsoft.Json.dll
+H:\Documents\Mono_dotNET_Projects\XmlAndJsonConverter\XmlAndJsonConverter\bin\Debug\Newtonsoft.Json.xml
+H:\Documents\Mono_dotNET_Projects\XmlAndJsonConverter\XmlAndJsonConverter\obj\Debug\MainWindow.g.cs
+H:\Documents\Mono_dotNET_Projects\XmlAndJsonConverter\XmlAndJsonConverter\obj\Debug\App.g.cs
+H:\Documents\Mono_dotNET_Projects\XmlAndJsonConverter\XmlAndJsonConverter\obj\Debug\XmlAndJsonConverter_MarkupCompile.cache
+H:\Documents\Mono_dotNET_Projects\XmlAndJsonConverter\XmlAndJsonConverter\obj\Debug\XmlAndJsonConverter_MarkupCompile.lref
+H:\Documents\Mono_dotNET_Projects\XmlAndJsonConverter\XmlAndJsonConverter\obj\Debug\MainWindow.baml
+H:\Documents\Mono_dotNET_Projects\XmlAndJsonConverter\XmlAndJsonConverter\obj\Debug\XmlAndJsonConverter.g.resources
+H:\Documents\Mono_dotNET_Projects\XmlAndJsonConverter\XmlAndJsonConverter\obj\Debug\XmlAndJsonConverter.Properties.Resources.resources
+H:\Documents\Mono_dotNET_Projects\XmlAndJsonConverter\XmlAndJsonConverter\obj\Debug\XmlAndJsonConverter.csproj.GenerateResource.Cache
+H:\Documents\Mono_dotNET_Projects\XmlAndJsonConverter\XmlAndJsonConverter\obj\Debug\XmlAndJsonConverter.exe
+H:\Documents\Mono_dotNET_Projects\XmlAndJsonConverter\XmlAndJsonConverter\obj\Debug\XmlAndJsonConverter.pdb

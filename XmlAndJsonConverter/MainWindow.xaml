@@ -1,0 +1,36 @@
+﻿<Window x:Class="XmlAndJsonConverter.MainWindow"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:scintilla="clr-namespace:ScintillaNET;assembly=ScintillaNET"
+        xmlns:local="clr-namespace:XmlAndJsonConverter"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:forms="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"
+        Title="Xml And Json Converter" Height="600" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="260*"/>
+            <ColumnDefinition Width="260*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="36"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <WrapPanel Grid.Row="0" Grid.ColumnSpan="2" Margin="10,5" VerticalAlignment="Center">
+            <ComboBox x:Name="ConvertType" Width="120" SelectedIndex="0">
+                <ComboBoxItem Content="Xml -> Json" HorizontalContentAlignment="Center"/>
+                <ComboBoxItem Content="Json -> Xml" HorizontalContentAlignment="Center"/>
+            </ComboBox>
+            <Button x:Name="ConvertButton" Content="Convert" Margin="30,0" Padding="15,0"/>
+            <Button x:Name="SimpleXml" ToolTip="Paste simple XML code" Content="Xml" Margin="30,0" Padding="15,0"/>
+            <Button x:Name="SimpleJson" ToolTip="Paste simple JSON code" Content="Json" Padding="15,0"/>
+        </WrapPanel>
+        <WindowsFormsHost Grid.Row="1" Grid.Column="0" Name="InputScintillaHost" Loaded="ScintillaHostLoaded" Margin="0,0,0,0.5">
+            <!--<scintilla:Scintilla Name="Scintilla" Text="asd"/>-->
+        </WindowsFormsHost>
+        <WindowsFormsHost Grid.Row="1" Grid.Column="1" Name="OutputScintillaHost" Loaded="ScintillaHostLoaded" Margin="0,0,0,0.5">
+            <!--<scintilla:Scintilla Name="Scintilla" Text="asd"/>-->
+        </WindowsFormsHost>
+
+
+
+    </Grid>
+</Window>
