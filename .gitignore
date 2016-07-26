@@ -14,8 +14,8 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
-/XmlAndJsonConverter/bin/
-/XmlAndJsonConverter/obj/
+XmlAndJsonConverter/bin/
+XmlAndJsonConverter/obj/
 
 # Windows shortcuts
 *.lnk
